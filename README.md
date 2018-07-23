@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Dango's Recipes
 
-You can use the [editor on GitHub](https://github.com/forsithias/sad/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+a collection of epic recipes for people of discerning flavour scapes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What kind of recipes?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A mix of Indian, Ukrainian, Persian, etc. cooking. Generally easy dishes that can be made for a few or many people, and are good for many occasions.
 
 ```markdown
 Syntax highlighted code block
